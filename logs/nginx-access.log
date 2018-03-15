@@ -1,0 +1,2 @@
+47.31.248.165 - - [15/Mar/2018:05:48:13 +0000] "GET / HTTP/1.1" 200 24096 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36"
+47.31.248.165 - - [15/Mar/2018:05:48:14 +0000] "GET /favicon.ico HTTP/1.1" 200 24102 "http://45.33.92.148/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36"
